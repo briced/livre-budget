@@ -9,5 +9,5 @@
   * [Les chiffres, foulalaaa](chapitre2/les-chiffres-foulalaaa.md)
 * [La fluidité comme outil principal](chapitre3-la-fluidite-comme-outil-principal.md)
   * [Aides-moi ordinateur!](chapitre3/aides-moi-ordinateur!.md)
-* Conclusion
+* [Conclusion](conclusion.md)
 
