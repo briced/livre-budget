@@ -10,5 +10,5 @@
 * [La fluidité comme outil principal](chapitre3-la-fluidite-comme-outil-principal.md)
   * [Aides-moi ordinateur!](chapitre3/aides-moi-ordinateur!.md)
 * [Conclusion](conclusion.md)
-* [Bonus: les astuces pour économiser](bonus-les-astuces-pour-economiser.md)
+* [Bonus: les astuces pour économiser](bonus/bonus-les-astuces-pour-economiser.md)
 
