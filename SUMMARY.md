@@ -11,4 +11,6 @@
   * [Aides-moi ordinateur!](chapitre3/aides-moi-ordinateur!.md)
 * [Conclusion](conclusion.md)
 * [Bonus: les astuces pour économiser](bonus/bonus-les-astuces-pour-economiser.md)
+  * [La voiture](bonus/la-voiture.md)
+  * [Le repas de midi](bonus/le-repas-de-midi.md)
 

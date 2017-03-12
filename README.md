@@ -8,11 +8,9 @@ La première fois que j'ai dû payer mes impôts, j'ai emprunté de l'argent à 
 
 Mais j'avais toujours en tête cette image de l'adulte, avec sa pile de facture et son logiciel compliqué, et je ne voulais pas passer des heures, enterrés sous les chiffres, chaque semaine. Heureusement, cette époque est révolue depuis longtemps, et les outils d'aujourd'hui permettent une gestion bien plus simple et rapide!
 
-Malheureusement, beaucoup de documentation sur le sujet est en anglais, et tout le monde ne parle pas cette langue. Donc j'espère que ce livre, en français, vous permettra de maîtriser ce sujet crucial dans la vie de tous les jours.
+Malheureusement, beaucoup de documentation sur le sujet est en anglais, et tout le monde ne parle pas cette langue. Donc j'espère que ce guide, en français, vous permettra de maîtriser ce sujet crucial dans la vie de tous les jours.
 
-Nous allons d'abord nous intéresser au but d'un budget, ainsi qu'aux réflexes mentaux à adopter pour changer durablement sa relation à l'argent, pour finir par les outils et méthodes permettant une gestion fluide.
-
-
+Nous allons d'abord nous intéresser au but d'un budget, ainsi qu'aux réflexes mentaux à adopter pour changer durablement sa relation à l'argent, pour finir par les outils et méthodes permettant une gestion fluide et efficace.
 
 Bonne lecture!
 
