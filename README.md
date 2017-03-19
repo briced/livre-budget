@@ -1,4 +1,4 @@
-# Un budget simplement: Pourquoi, comment?
+# Le budget simplement.
 
 Bonjour! Si vous lisez ce livre, c'est que vous aussi vous voulez gérer votre budget, afin de mieux maîtriser vos finances et votre vie! Je vais vous donner toutes les clés et moyens pour optimiser votre gestion au maximum, et qu'elle ne vous prenne que 10 minutes par semaine.
 

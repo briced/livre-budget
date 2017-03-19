@@ -6,7 +6,7 @@ Quand vous regardez vos relevés de comptes, cela vous donne la liste des dépen
 
 Quand vous regardez le total de votre compte en banque, cela vous donne le total de l'argent que vous possédez. C'est un bon début, mais ça ne vous aide pas à savoir où cet argent va être dépensé.
 
-Si on prend un exemple simple: Vous avez 1200€ en banque.
+Si on prend un exemple simple: On est au début du mois, et vous avez 1200€ en banque.
 
 Un budget pourrait être :
 
