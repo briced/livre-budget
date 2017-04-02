@@ -4,3 +4,5 @@ Maintenant qu'on sait ce que c'est, pourquoi faire un budget? J'ai de l'argent e
 
 Comme vu dans la partie précédente, le cerveau a tendance à penser "Argent disponible = argent à dépenser". Or, une personne normale a besoin de se loger, manger, payer des impôts, etc etc. Avec un budget, toutes ces dépenses seront clairement visibles, et il n'y aura plus de mauvaises surprises.
 
+Et gérer son budget, c'est aussi un moyen de mettre en place des objectifs à moyen terme.
+
